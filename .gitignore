@@ -1,0 +1,23 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+*.tfplan
+crash.log
+
+# Vagrant
+.vagrant/
+
+# Environment
+.env
+.env.*
+
+# SSH Keys
+*.pem
+id_rsa
+id_rsa.pub
+
+# macOS
+.DS_Store
