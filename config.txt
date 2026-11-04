@@ -1,2 +1,3 @@
 db_host=localhost
 dd
+env=production
