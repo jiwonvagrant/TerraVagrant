@@ -1,3 +1,4 @@
 db_host=localhost
 dd
 제하하하하하하
+env=development
