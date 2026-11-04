@@ -18,6 +18,7 @@ crash.log
 *.pem
 id_rsa
 id_rsa.pub
+*.key
 
 # macOS
 .DS_Store
